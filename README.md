@@ -2,20 +2,12 @@
 
 Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies.
 
-## About Me
-
 ## Skills
 
-- **Languages:** JavaScript, Python, Java
-- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Languages:** Java
+- **Web Development:** HTML, CSS, JS, Angular
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Kubernetes, AWS
-
-## Projects
-
-## GitHub Stats
-
-![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksorthiya&show_icons=true&theme=radical)
 
 ## Connect with Me
 
