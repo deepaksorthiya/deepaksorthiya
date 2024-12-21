@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Deepak ! 👋
 
-<!--
-**deepaksorthiya/deepaksorthiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:** JavaScript, Python, Java
+- **Web Development:** HTML, CSS, React, Node.js, Express.js
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Technologies:** Git, Docker, Kubernetes, AWS
+
+## Projects
+
+## GitHub Stats
+
+![Deepak's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepaksorthiya&show_icons=true&theme=radical)
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/deepaksorthiya)
+- [Twitter](https://twitter.com/deepaksorthiya)
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 😊
